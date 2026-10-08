@@ -1,0 +1,16 @@
+{
+  "ref": "ROD-BR-2026-003",
+  "slug": "premium-pet-snacks-board-report",
+  "title": "Premium Pet Snacks",
+  "question": "Can premium pet snacks be a durable business at 20 hrs a week and S$5k to S$20k, and does any version beat Club and Coach Desk?",
+  "date": "8 October 2026",
+  "contributors": "SPARK-CIO, COGSWORTH-COO, LEDGER-CFO, BEACON-CMO, PROBE-CRO",
+  "decision_id": "D-004",
+  "decision_text": "Park premium pet snacks with no ranked slot. Run one capped no-spend test by 21 Oct (about 3.5 Chairman hours). Gate on 23 Oct: both tests pass, then a reserve only; otherwise drop. Licensing is AVS, not SFA.",
+  "footer": "Estimates are labelled as such. No robot found willingness-to-pay data for pet snacks; this is a park-and-test decision, not a launch.",
+  "labels": {},
+  "rounds": {
+    "r1": ["Round 1: diverge (vetoes off)", "Each robot listed 10 versions of the idea from an assigned lens: pain points, licensing, unit economics, channels and evidence. Unedited."],
+    "r2": ["Round 2: attack (vetoes on)", "LEDGER, COGSWORTH, PROBE and BEACON attacked the strongest versions and compared them with Club and Coach Desk. Unedited."]
+  }
+}

@@ -39,10 +39,21 @@ Source: [Healy Consultants SG tax 2026](https://www.healyconsultants.com/singapo
 - Source: [SFA commercial food imports](https://sfa.gov.sg/food-import-export/commercial-food-imports), [SFA licensing and registration of traders](https://www.SFA.gov.sg/food-import-export/licensing-registration-of-traders).
 - **Open question:** exact category for the intended products. Needs checking per product.
 
-### Pet food import
-- Pet food, treats or supplements **containing meat or meat products need AVS pre-import approval**. For countries outside Australia, NZ, Canada, UK and USA, the manufacturing plant needs a technical dossier approved (HACCP-type certificates, analysis, process flow). Commercial import, manufacture or sale of non-food-animal feed requires an NParks/AVS licence.
-- Source: [AVS guidelines for importing pet food](https://isomer-user-content.by.gov.sg/30/b3ab79c4-5fdd-4c77-a49f-68e72d1e80ba/Guidelines%20for%20importing%20pet%20food%20(Non-scheduled%20Countries)%2021%20Apr%202026.pdf).
-- **Takeaway:** significantly more paperwork than general dried food, unless you import non-meat products or source from a scheduled country.
+### Pet food import (corrected 2026-10-08, pet-snacks meeting)
+- **Pet treats are an AVS (NParks) matter, not SFA.** The SFA registration and TradeNet text above is for human food. Importer registration for pet food is "not mandatory" per the AVS import page, but a **S$22 permit per consignment** (TradeNet, about 1 day) applies.
+
+| Route | Needs |
+|---|---|
+| Non-meat | Maker's "no meat" declaration; permit per shipment |
+| Meat from AU/NZ/CA/UK/US ("scheduled") | No pre-approval; vet health certificate plus permit (UK beef excluded) |
+| Meat, heat-treated, EU/Japan | Online self-declaration, certificate, permit |
+| Raw, frozen or freeze-dried meat, other origins | Factory dossier approved by AVS, est. 4-12 weeks; legal doubt for China/Thailand |
+| Make it in Singapore | AVS licence about S$240/yr, about 21 working days, commercial premises only (no home kitchens) |
+| Private label | The licensed maker holds the licence; Pet Axis MOQ and price unknown |
+
+- Always: English label with importer name and address; Pte Ltd advised for liability (the dossier route needs a company number); AVS GIRO account.
+- **Open (AVS query pending, A-031/A-032):** whether fish and insect count as "meat"; whether an importer or brand owner needs a Feeding Stuffs Act licence (worst case S$240/yr); whether the "complete and balanced diet" label clause applies to treats.
+- Sources: [AVS importing pet food](https://avs.nparks.gov.sg/businesses/commercial-importers-exporters/animal-feed/importing-pet-food), [AVS guidelines, non-scheduled countries, 21 Apr 2026](https://isomer-user-content.by.gov.sg/30/b3ab79c4-5fdd-4c77-a49f-68e72d1e80ba/Guidelines%20for%20importing%20pet%20food%20(Non-scheduled%20Countries)%2021%20Apr%202026.pdf). Details: `company/meetings/2026-10-08-pet-snacks/r2-cogsworth-coo.md`.
 
 ### Digital and services
 - No licence needed in general. Consider PDPA (data protection) compliance if you collect customer data.

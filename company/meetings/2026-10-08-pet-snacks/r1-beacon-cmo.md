@@ -1,0 +1,27 @@
+# R1 BEACON-CMO: channels and partners (vetoes suspended)
+
+*2026-10-08. All numbers are "estimate" unless a URL is given. Licence column: only what `04-setup-costs.md` supports; COGSWORTH owns the detail. Pet-meat items need AVS pre-approval; all food imports need SFA registration plus TradeNet permit per shipment.*
+
+| # | Version (product, species, sourcing, channel) | Buyer | Price / margin (est.) | Startup S$ (est.) | Licences | Hrs/wk | S$2k / 4k / 6k | Founder fit | Source |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | Single-ingredient fish-skin or dried-fish dog treats, imported, wholesale to independent pet shops | Owner/buyer at independent specialty shop | Retail S$12-18; shop takes 35-45%, us 55-65% of wholesale | 6-10k | SFA import reg; fish may avoid meat route, verify | 10-14 | Y / maybe / N | Sales + walk-in outreach | K-9 Artefacts claims 150+ specialty shop partners ([link](https://recordowl.com/company/k-9-artefacts-pte-ltd), 2026-10-08) |
+| 2 | Plant-based baked/dehydrated dog biscuits (sweet potato, pumpkin), local contract bake, sold in dog-friendly cafes | Cafe owner/manager | Retail S$8-12; cafe keeps 30-40% | 4-8k | Likely no AVS meat route; SFA/NParks check | 8-12 | Y / N / N | Walk-in sales | Cafes with dog menus: Garden Slug, Sun Ray, Happenstance ([list](https://eatbook.sg/pet-friendly-cafes-in-singapore/), 2026-10-08) |
+| 3 | Counter-top "good dog" treat jar at groomers, any safe SKU | Groomer owner | Retail S$3-6 per piece; groomer 30% | 3-6k | As SKU | 6-10 | Y / N / N | Walk-in sales | Pet Safari runs grooming plus bakery ([link](https://singmalls.app/en/malls/waterway-point/merchants/waterway-point-the-pet-safari)) |
+| 4 | STRETCH: vet-recommended senior/allergy (novel protein or fish) treat, vet dispensing | Vet clinic manager | S$18-30; clinic 25-35% | 8-14k | Health claims need care; AVS if meat | 8-12 | maybe / N / N | Weak (no vet contacts) | 85 clinics islandwide ([link](https://www.ladyironchef.com/tag/cafes-to-visit-in-singapore/) not primary; estimate) |
+| 5 | STRETCH: "recovery/trail" treats for running dogs via athletics network and canicross-style groups | Athlete/coach who owns a dog; run-club organiser | S$14-20; direct, 60%+ | 3-6k | As SKU | 5-8 | N / N / N alone | Strongest network fit | No Singapore canicross group found in search (2026-10-08). Specials Run since 2010 shows a dog-run audience ([link](https://www.littledayout.com/?p=214479)) |
+| 6 | Own SKU sold direct on Shopee/Lazada/Carousell, no partners | Online dog owner | S$10-16; 45-55% after fees (est.) | 5-9k | As SKU | 12-18 | Y / maybe / N | Vibecoding for listings | Shopee Live used by Pet Lovers Centre ([link](https://divedeals.sg/deals/shopping/Pet-Lovers-Centre-Shopee-Live-Sale-up-to-50-OFF!-1760686473_PetLoversCentre)) |
+| 7 | Event-only launch: 2 shows a year plus online | Show visitor | S$12-18 plus bundles | 8-12k (booths est. 1.5-4k each, unsourced) | As SKU | 4-6 avg, spiky | maybe / N / N | OK, weekends | PetExpo 3-5 Apr 2026, 30k visitors, 150+ exhibitors ([link](https://www.timeout.com/singapore/things-to-do/petexpo-2026)); SG Pet Festival 31 Jul-2 Aug 2026, 300+ exhibitors ([link](https://www.timeout.com/singapore/things-to-do/singapore-pet-festival-2026)) |
+| 8 | Subscription box (monthly treat pack) driven by pet influencers | Urban dog owner, HDB/condo | S$25-35/month; 40-50% | 7-12k | As SKU | 10-15 | maybe / N / N | Site build, no audience | Pet influencers do brand deals ([link](https://www.impossible.sg/?p=81751)); audience building is penalised by constraints |
+| 9 | Co-branded fundraising treat for adoption NGOs and charity dog runs | NGO events lead | S$10-15; 10% donated | 3-6k | As SKU | 3-5 | N / N / N | Network, low | Specials Run ([link](https://www.littledayout.com/?p=214479)); estimate otherwise |
+| 10 | STRETCH-free: white-label for an established distributor or shop brand | Distributor buyer (K-9 Artefacts, Superpets 16 outlets) | S$4-7 per unit wholesale, 25-35% | 8-15k | Importer of record duties | 6-8 | maybe / maybe / N | Sales | Superpets 16 outlets ([link](https://sbo.sg/?p=45514)) |
+
+**Partner economics (estimate).** Pet shops want margin and exclusivity; cafes want a menu story and low-risk sell-through; groomers want checkout revenue; vets want proof; event organisers want paying exhibitors.
+
+**First 10 customers (version 1 or 3, estimates).** Visit 60 independent shops/groomers/cafes (about 25 hrs over 3 weeks). Expect 40-60% to take a sample, 10-20% to stock on consignment. That gives 6-12 accounts. Reorder from 50-70% of them by month 3.
+
+**Which 3 I would test first, and why.**
+1. **Version 3, groomer jar** (and 2, cafe jar). Cheapest to test: 10 walk-ins with samples, near zero stock risk, the Chairman's CRM walk-in method applies directly.
+2. **Version 1, independent shop wholesale.** Highest reach per hour if the product has an easy licence route; 150+ shops exist.
+3. **Version 5, running-dog treats via athletics network.** Not income by itself, but the free talk-test pool: 20 athlete-dog owners can reveal willingness to pay and hand over referrals within a week. Caveat: I found no Singapore canicross group, so size is unknown.
+
+**Honest caveat (my blind spot).** I assume shops reorder. Sell-through is the real number, and none of my conversion ranges is sourced. Who exactly buys this, and who introduces us to them? For versions 1-3, it is the shop, groomer or cafe owner, and the Chairman does not yet have a named contact.
