@@ -4,6 +4,17 @@ A systematic way to decide **what business to start** in Singapore, and what it 
 
 End goal: a thriving, durable business. Not a specific product. The product is chosen by the process below.
 
+## The company: ROD Inc.
+
+Planning is run by **ROD Inc. (Robots of Doom Incorporated)**. That's 6 robot executives (Claude Code subagents in `.claude/agents/`) plus the human Chairman. They debate in files and attack each other's assumptions, and the Chairman decides.
+
+- [company/ROSTER.md](company/ROSTER.md): who's who, attributes, vetoes, attack targets
+- [company/PROTOCOL.md](company/PROTOCOL.md): how a board meeting runs, and cost control
+- [company/assumptions.md](company/assumptions.md): assumption register
+- [company/decisions.md](company/decisions.md): decision log
+
+To run a meeting, open Claude Code in this repo and say "Run a ROD board meeting on <topic>".
+
 ## Funnel
 
 | Stage | File | Question it answers | Status |
