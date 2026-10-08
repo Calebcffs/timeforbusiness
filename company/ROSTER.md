@@ -12,13 +12,14 @@
                            RIVET-CEO
                  synthesizes, recommends, owns the profit plan
                                   |
-     +-------------+-------------+-------------+-------------+
-     |             |             |             |             |
- LEDGER-CFO    SERVO-CTO   COGSWORTH-COO   PROBE-CRO     BEACON-CMO
-  money         build       ops + legal    research      growth + partners
+     +----------+----------+----------+----------+----------+----------+
+     |          |          |          |          |          |          |
+ LEDGER-CFO SERVO-CTO COGSWORTH-COO PROBE-CRO BEACON-CMO SPARK-CIO
+  money      build     ops + legal   research  growth +    ideas (no veto)
+                                                partners
 ```
 
-7 seats: 1 human Chairman + 6 robots. Adding a 7th robot (e.g. a dedicated red-teamer or sales bot) takes one new file in `.claude/agents/`.
+8 seats: 1 human Chairman + 7 robots. SPARK-CIO joined on 2026-10-09 to widen ideation. A sales or outreach robot is the planned next hire, once a business is chosen. Adding a robot takes one new file in `.claude/agents/`.
 
 ## The robots
 
@@ -30,6 +31,7 @@
 | **COGSWORTH-COO** | Chief Operating Officer (ops + compliance) | Legal, low-hassle operations | K2 time, K4 legality | Every plan's real weekly hours, licences, fulfilment and support load |
 | **PROBE-CRO** | Chief Research Officer | Truth, sourced evidence | K3 demand stability, evidence block on unsourced claims | Any number without a source, especially market sizes and prices |
 | **BEACON-CMO** | Chief Marketing Officer (growth + partnerships) | First 10 customers, distribution | K5 path to customers | Products with no named buyer, and over-cautious "nobody will buy this" |
+| **SPARK-CIO** | Chief Ideas Officer (joined 2026-10-09) | Width and originality of the idea pool | **None, ever** | Convergence on safe ideas, "incumbents already do this", RIVET's premature shortlist |
 
 ## Attribute cards (1 to 10)
 
@@ -41,6 +43,7 @@
 | COGSWORTH-COO | 3 | 4 | 7 | 4 | Treats every rule as a blocker even when it is just paperwork |
 | PROBE-CRO | 4 | 5 | 10 | 1 | Never thinks evidence is enough. Can stall decisions |
 | BEACON-CMO | 8 | 9 | 3 | 9 | Overestimates conversion and partner enthusiasm |
+| SPARK-CIO | 9 | 8 | 2 | 8 | Falls for novelty, forgets the buyer, the capital limit and the hours |
 
 The blind spots are deliberate. Each robot's attack target covers another robot's blind spot.
 
@@ -52,3 +55,4 @@ The blind spots are deliberate. Each robot's attack target covers another robot'
 - COGSWORTH-COO: "That's 26 hours a week. You have 20."
 - PROBE-CRO: "Source? Date? Sample size?"
 - BEACON-CMO: "Who exactly buys this, and who introduces us to them?"
+- SPARK-CIO: "What if we did the opposite?"

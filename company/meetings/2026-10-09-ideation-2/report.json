@@ -1,0 +1,17 @@
+{
+  "ref": "ROD-BR-2026-002",
+  "slug": "ideation-round-2-board-report",
+  "title": "Ideation Round 2",
+  "question": "Is there a better business than Club and Coach Desk to test first?",
+  "date": "9 October 2026",
+  "contributors": "SPARK-CIO, LEDGER-CFO, SERVO-CTO, COGSWORTH-COO, PROBE-CRO, BEACON-CMO",
+  "decision_id": "D-003",
+  "decision_text": "Adopt the new shortlist as a test list (supersedes D-002, includes dropping the hamper test) and run two weeks of no-spend tests before choosing one main line.",
+  "footer": "Estimates are labelled as such. No robot found willingness-to-pay data; this is a test list, not a launch list.",
+  "labels": {"spark-clusters": "SPARK-CIO: clustering of all ideas"},
+  "rounds": {
+    "r1": ["Round 1: ideation (vetoes off)", "Each robot listed ideas from an assigned source. No robot was allowed to kill an idea. Unedited."],
+    "r2": ["Round 2: clustering", "SPARK-CIO grouped about 75 ideas into 16 clusters plus 8 orphans, and ranked the top 10 by interest. Unedited."],
+    "r3": ["Round 3: attack (vetoes on)", "The five core robots attacked the top 10 clusters from their own lens and compared each with Club and Coach Desk. Unedited."]
+  }
+}

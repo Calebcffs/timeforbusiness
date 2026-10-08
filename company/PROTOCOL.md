@@ -27,7 +27,27 @@ The robots are Claude Code subagents. They can't talk to each other directly, an
 6. **Synthesis.** RIVET-CEO writes the recommendation, keeps dissent visible ("LEDGER-CFO still objects because…"), and lists next actions.
 7. **Chairman.** You ratify, veto or send it back. The result is logged in `decisions.md`.
 
+8. **Report (every meeting, from 2026-10-09).** The facilitator produces a PDF board report for every meeting:
+   1. Write `executive-summary.md` in the meeting folder (as RIVET-CEO, plain English, no veto codes). It starts with a one-paragraph answer as a `>` blockquote, then: what to do now, the shortlist in plain English, how it compares with the baseline, what was dropped and why, the next two weeks, decisions needed from the Chairman, how to read the rest, and what changed since the last report.
+   2. Write `report.json` in the meeting folder (reference `ROD-BR-<year>-<nnn>`, title, question, date, contributors, decision ID, round titles). Copy one from an earlier meeting.
+   3. Run `python company/tools/build_report.py company/meetings/<meeting-folder>`. The PDF lands in `company/reports/`.
+   4. Look at a few rendered pages before telling the Chairman it is done.
+
 A second round runs only if the Chairman asks for one or a Fatal challenge is still unresolved.
+
+## Ideation meetings (added 2026-10-09)
+
+Ideation runs in two phases so early ideas are not killed before they are written down.
+
+| Phase | Vetoes | What happens |
+|---|---|---|
+| 1. Diverge | **Suspended for everyone.** No robot may kill or reject an idea. | Each robot lists many ideas from an assigned source (not just its job lens). SPARK-CIO clusters and dedupes. |
+| 2. Converge | **Back on.** | The core robots attack the top ideas, vetoes apply, RIVET-CEO synthesizes. |
+
+Other changes for ideation:
+- Ideas are tested against the **income ladder** in `01-constraints.md` (S$2k, S$4k, S$6k a month), because the Chairman has not set a single income target.
+- The founder's strengths and the **day-job industry exclusion** in `01-constraints.md` apply to every idea.
+- Parallel runs are allowed for a whole round once the Chairman has approved the run count.
 
 ## Rules of engagement
 

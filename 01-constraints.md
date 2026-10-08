@@ -20,6 +20,21 @@ Every idea is judged against this file. Update it when your situation changes.
 - Comfortable selling physical products.
 - Lives in Singapore, so local presence and local networks are available.
 
+### Founder strengths added 2026-10-09
+
+- **Athletics network:** contacts in the Singapore athletics (track and field) community, a ready pool of coaches, athletes, clubs and parents for talk tests and partnerships.
+- **Entrepreneurial friends:** a network of founders who can serve as early customers, partners and honest critics.
+- **Vibecoding and website knowledge:** can ship websites, booking flows and small tools quickly.
+- **Business knowledge:** understands how a business runs, not just how to build a product.
+
+### Hard exclusion: stay away from the day job
+
+The business must **not** operate in the Chairman's day-job industry (modular and prefabricated buildings, and the construction sector around it), and must not use employer time, tools, contacts or confidential knowledge. This also helps with the open employment-contract question below. Check the contract before any invoice.
+
+### Income ladder (replaces a single income target)
+
+The Chairman has not set a number for "steady income". Until they do, every idea is assessed against three levels of monthly net profit: **S$2k, S$4k and S$6k**. For each idea the board states which level it can plausibly reach at 20 hrs/week and about how long that takes.
+
 ## Preferred go-to-market
 
 **Partnerships** (distributors, gyms, clinics, other businesses who resell or refer). Implication: B2B2C and channel-led ideas get a bonus. Ideas that depend only on brand-new consumer audience building get a penalty.
