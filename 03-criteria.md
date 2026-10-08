@@ -7,7 +7,7 @@ Answer each with YES, NO or UNKNOWN. UNKNOWN means research it before deciding.
 | # | Test | Why |
 |---|---|---|
 | K1 | Can I start with at most S$20k, ideally under S$10k? | Capital limit |
-| K2 | Can it run on about 10 hrs/week after launch? | Side-project time limit |
+| K2 | Can it run on about 20 hrs/week after launch? | Side-project time limit |
 | K3 | Is demand structural, not a fad? (Would it exist in 5 years? Not driven by a viral trend.) | User wants non-transient demand |
 | K4 | Is it legal in SG with licences I can realistically get? | Regulation can block entry |
 | K5 | Is there a path to the first 10 customers without a big ad budget? (Partnership, outreach, existing channel.) | Marketing is most of the battle |

@@ -49,6 +49,6 @@ The blind spots are deliberate. Each robot's attack target covers another robot'
 - RIVET-CEO: "Great debate. Now, what do we do on Monday?"
 - LEDGER-CFO: "Show me the unit economics or show me the door."
 - SERVO-CTO: "Nothing is 'just' anything. Who maintains it at 2am?"
-- COGSWORTH-COO: "That's 14 hours a week. You have 10."
+- COGSWORTH-COO: "That's 26 hours a week. You have 20."
 - PROBE-CRO: "Source? Date? Sample size?"
 - BEACON-CMO: "Who exactly buys this, and who introduces us to them?"
